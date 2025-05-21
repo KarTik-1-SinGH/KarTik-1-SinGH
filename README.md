@@ -28,15 +28,12 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=bot-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="bot-aditya" />
 </p>
 
-- 🎓 Third-year undergrad @ **IIT Bombay**, Materials Science & Metallurgical Engg    
+- 🎓 Third-year undergrad @ **IIT Bombay**, Energy Science & Engg    
 - 🌱 I’m currently learning **Fine-tuning AI models**  
 - 👯 I’m looking to collaborate on **Transformers Projects**  
-- 🤖 Exploring **Machine Learning**, **Generative AI**, and everything in between  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/bot-aditya)  
+- 🤖 Exploring **Machine Learning**, **Generative AI**, and everything in between   
 - 🧪 BTP: Electrical characterization of dielectric materials (yes, I can nerd out too)
-- 📫 Reach me at **tadwalkaraditya@gmail.com**  
-- 📄 Know more from my [Resume](https://drive.google.com/file/d/1XxxfZdSAgeOb4BDQh-HXTkAlHok1D74l/view?usp=drive_link)  
-- ⚡ Fun fact: **I always learn something new and then forget about it.**
+- 📫 Reach me at **kartiksingh5653@gmail.com**  
 
 ---
 
