@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img alt="Master" height="350" width="1080" src="https://pixeljoint.com/files/icons/full/astebros_camp_loc.gif">
 
-<h1 align="center">Hi 👋, I'm Aditya Tadwalkar</h1>
+<h1 align="center">Hi 👋, I'm Kartik Singh</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F784A3&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+%7C+CV+%7C+NLP;PyTorch;I+love+problems+solving" />
