@@ -60,13 +60,3 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartik5653&show_icons=true&locale=en&layout=compact" alt="Kartik5653" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-aditya&show_icons=true&locale=en" alt="Kartik5653" />
-</p>
-
