@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/AdityaTadwalka3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdityaTadwalka3" height="30" width="40" /></a>
+  <a href="https://x.com/AdityaTadwalka3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kartik_Singh" height="30" width="40" /></a>
   <a href="www.linkedin.com/in/aditya-tadwalkar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-singh" height="30" width="40" /></a>
 </p>
 
@@ -63,13 +63,10 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bot-aditya&show_icons=true&locale=en&layout=compact" alt="bot-aditya" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartik5653&show_icons=true&locale=en&layout=compact" alt="Kartik5653" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-aditya&show_icons=true&locale=en" alt="bot-aditya" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-aditya&show_icons=true&locale=en" alt="Kartik5653" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bt-aditya&" alt="bot-aditya" />
-</p>
