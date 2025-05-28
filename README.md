@@ -2,7 +2,7 @@
 
 <img alt="Master" height="350" width="1080" src="https://pixeljoint.com/files/icons/full/astebros_camp_loc.gif">
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Kartik Singh </h1>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F784A3&center=true&vCenter=true&width=435&lines=Energy+Engineering+%7C+ML+%7C+CV;Data+Science+Minor;Deep+Learning+Enthusiast" />
 </h2>
@@ -15,13 +15,18 @@
 
 - 🎓 **Energy Science & Engineering** @ **IIT Bombay** | **Data Science Minor** @ C-MInDS  
 - 🏆 **Merit-based Branch Change** (Top 10% of 1300+ students)  
-- 🔬 Currently working on **Machine Learning for Remote Sensing**  
+- 💼 **ML Intern @ Avrio Energy** - Time Series Forecasting with **Transformer Architecture**  
+- 🔬 Working with **Chronos & PatchTST** models for energy forecasting  
 - 🤖 Exploring **Computer Vision**, **NLP**, and **Deep Learning**  
 - 📫 Reach me at **your-email@gmail.com**  
 
 ---
 
 ## 🚀 Key Projects
+
+### ⚡ **Time Series Forecasting** | *ML Intern @ Avrio Energy* 
+- Implementing **Transformer-based models** (Chronos, PatchTST) for energy forecasting
+- Working on **real-world energy data** with state-of-the-art architectures
 
 ### 🔬 **UNet-Based Image Deblurring** | *Remote Sensing ML*
 - Optimized **7.7M → 1.86M parameters** while maintaining **26.82 dB PSNR**
