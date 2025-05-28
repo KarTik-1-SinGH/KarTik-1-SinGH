@@ -20,19 +20,8 @@
 - Reduced model size from 7.7M to 1.86M parameters with minimal PSNR loss  
 - Course: GNR638 | Instructor: Prof. Biplab Banerjee
 
-**LLM Benchmarking Study | Optimization in ML**  
-- Benchmarked Gemma 7B & Mistral 7B on MMLU, ARC, TruthfulQA  
-- Course: CS769 | Instructor: Prof. Ganesh Ramakrishnan
-
 **Fine-Grained Bird Classification | Computer Vision**  
 - Achieved 71.48% Top-1 accuracy on CUB dataset using EfficientNet_B1
-
-**Deep RL for Stock Trading | Finsearch '24**  
-- Developed DQN & DDPG-based trading strategies using 10 years of NIFTY50 data
-
-**Neural Network from Scratch | WIDS '24**  
-- Built a complete NN using NumPy for MNIST  
-- Mentored 5 students in NLP projects through SOS program
 
 ---
 
