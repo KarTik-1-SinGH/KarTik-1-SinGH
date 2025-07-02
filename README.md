@@ -4,7 +4,7 @@
 
 <sub> BTech - Energy Science & Engineering @ Indian Institute of Technology Bombay</sub>  
 <sub> Minor in Data Science @ Centre of Machine Intelligence and Data Science, Indian Institute of Technology Bombay</sub>  
-<sub> Machine Learning Intern @ Avrio Energy</sub>  
+<sub> Machine Learning Intern @ KlimaShift</sub>  
 ---
 ###  Skills
 **Languages:** 
