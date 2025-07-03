@@ -2,7 +2,7 @@
 ![Banner](https://pixeljoint.com/files/icons/full/astebros_camp_loc.gif)
 ### I'm Kartik Singh
 
-<sub> BTech - Energy Science & Engineering @ Indian Institute of Technology Bombay</sub>  
+<sub> BTech - Energy Science and Engineering @ Indian Institute of Technology Bombay</sub>  
 <sub> Minor in Data Science @ Centre of Machine Intelligence and Data Science, Indian Institute of Technology Bombay</sub>  
 <sub> Machine Learning Intern @ KlimaShift</sub>  
 ---
