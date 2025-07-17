@@ -3,6 +3,7 @@
 ### I'm Kartik Singh
 
 <sub> BTech - Energy Science and Engineering @ Indian Institute of Technology Bombay</sub> 
+<br>
 <sub> Minor in Data Science @ Centre of Machine Intelligence and Data Science, Indian Institute of Technology Bombay</sub>  
 <sub> Machine Learning Intern @ KlimaShift</sub>  
 ---
